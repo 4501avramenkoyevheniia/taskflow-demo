@@ -17,7 +17,7 @@
     "vite": "^7.1.9",
     "vite-plugin-pwa": "^1.1.0",
     "workbox-window": "^7.4.0",
-    "wrangler": "^4.151.3"
+    "wrangler": "^4.152.0"
   },
   "overrides": {
     "sharp": "^0.33.5",
