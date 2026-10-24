@@ -458,3 +458,7 @@ body,
 #app {
   position: relative;
 }
+.stat-card-pending {
+  background: #fff7ed;
+  color: #c2410c;
+}
